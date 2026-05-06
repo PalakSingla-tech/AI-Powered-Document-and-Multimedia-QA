@@ -12,4 +12,4 @@ pnpm-lock.yaml linguist-generated=true
 package-lock.json linguist-generated=true
 
 # Ensure the backend source code is prioritized
-AI-Powered-Document-Multimedia-Q-A/backend/src/main/java/** linguist-detectable=true
+backend/src/main/java/** linguist-detectable=true
