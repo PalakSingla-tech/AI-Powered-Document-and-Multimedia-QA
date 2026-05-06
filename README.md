@@ -31,17 +31,6 @@ An advanced AI platform that allows users to upload documents, audio, and video 
 
 ---
 
-## Interactive Documentation (Swagger)
-If the backend is running, you can access the interactive Swagger UI at:
-[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
----
-
-## Live Demo
-[View Live Demo](https://ai-powered-doc-multimedia-qa.netlify.app/) (Placeholder)
-
----
-
 ## Getting Started
 
 ### Prerequisites
